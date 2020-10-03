@@ -32,6 +32,6 @@
 
 ## 演示教程
 
-[【C++】基于 FIFO 的聊天客户端](https://www.bilibili.com/video/BV14K411N7aR/)：https://www.bilibili.com/video/BV14K411N7aR/
+[【C++】基于 FIFO 的聊天客户端](https://www.bilibili.com/video/BV17y4y1C7pF/)：https://www.bilibili.com/video/BV17y4y1C7pF/
 
 ![img](./resources/image2.png)
